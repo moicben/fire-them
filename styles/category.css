@@ -346,12 +346,13 @@ footer .logo {
     border: 1px solid #eaeaea;
     border-radius: 12px;
     padding: 1.5rem;
-    transition: box-shadow .3s ease
+    transition: box-shadow .3s ease;
+    background:white;
 }
 
 .sub-category:hover {
     box-shadow: 0 4px 14px rgba(0,0,0,.1);
-    background:white;
+    
 }
 
 .sub-category h2,.sub-category h3 {
@@ -363,7 +364,8 @@ footer .logo {
 .sub-category p {
     margin: 0 0 1rem;
     color: #666;
-    overflow: hidden
+    overflow: hidden;
+    height:156px;
 }
 
 .sub-category span {

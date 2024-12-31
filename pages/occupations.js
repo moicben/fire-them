@@ -44,10 +44,10 @@ return (
         <Header title="Welcome to My Expert!" />
     
         <div className="category">
-            <h1>Occupations</h1>
+            <h1>All Experts Occupations</h1>
             <div className="sub-categories">
                 {occupations.map((occupation) => (
-                    <a key={occupation.id} href={occupation.occupation_slug} className="sub-category">
+                    <a key={occupation.id} href={`/occupations/locations?job=${occupation.occupation_slug}`} className="sub-category">
                         <h2>{occupation.occupation_name}</h2>
                         <p>{occupation.occupation_desc}</p>
                         <span>Discover the occupation</span>
@@ -55,6 +55,7 @@ return (
                 ))}
             </div>
         </div>
+        <Footer/>
     </div>
 );
 }

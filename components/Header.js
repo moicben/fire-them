@@ -19,13 +19,13 @@ export default function Header({ }) {
       </button>
       <nav className={isOpen ? 'open' : ''}>
         <ul>
-          
-          <li>
-            <a href="/occupations">Occupations</a>
-          </li>
           <li>
             <a href="/locations">Locations</a>
           </li>
+          <li>
+            <a href="/occupations">Occupations</a>
+          </li>
+          
         </ul>
       </nav>
     </header>
