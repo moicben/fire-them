@@ -5,66 +5,75 @@ import Hero from '@components/Hero';
 
 import navigation from '../navigation.json';
 
-
 export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Mon Expert | Services en ligne pour particuliers</title>
-        <meta name="description" content="Découvrez nos services en ligne pour particuliers, conçus pour répondre à tous vos besoins." />
-        <meta name="keywords" content="services en ligne, particuliers, assistance, support, expertise" />
-        <meta name="author" content="Mon Expert" />
+        <title>My Expert | Online Services for Individuals</title>
+        <meta name="description" content="Discover our online services for individuals, designed to meet all your needs." />
+        <meta name="keywords" content="online services, individuals, assistance, support, expertise" />
+        <meta name="author" content="My Expert" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Header title="Bienvenue sur Mon Expert!" />
-      <main >
+      <Header title="Welcome to My Expert!" />
+      <main>
 
-      <Hero
-          title='Des services en ligne pour vous simplifier la vie'
-          description='Découvrez nos solutions adaptées à vos besoins'
-          cta='Commencer gratuitement'
-        /> 
-
-
-        <section className="categoryGrid">
-          {Object.keys(navigation).map(category => (
-            <div key={category} className="categoryCard">
-              <a href={`/${category.toLowerCase()}`} className="categoryLink">{category}</a>
-              <ul className="subcategoryList">
-                {navigation[category].map(subcategory => (
-                  <li key={subcategory.slug} className="subcategoryItem">
-                    <a href={`/${category.toLowerCase()}/${subcategory.slug}`} className="subcategoryLink">
-                      {subcategory.name}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
-        </section>
+        <Hero
+          title='Online services to simplify your life'
+          description='Discover our solutions tailored to your needs'
+          cta='Start for free'
+          cta_href='/locations'
+        />
 
         <section className="section">
-          <h2 className="sectionTitle">À propos de nous</h2>
+          <h2 className="sectionTitle">About Us</h2>
           <p className="sectionContent">
-            Mon Expert est une plateforme dédiée à fournir des services en ligne pour les particuliers. Nous nous engageons à offrir des solutions adaptées à vos besoins spécifiques.
+            My Expert is a platform dedicated to providing online services for individuals. We are committed to offering solutions tailored to your specific needs.
           </p>
         </section>
 
         <section className="section">
-          <h2 className="sectionTitle">Nos Services</h2>
+          <h2 className="sectionTitle">Our Services</h2>
           <p className="sectionContent">
-            Nous proposons une gamme variée de services pour vous aider dans différents domaines :
+            We offer a wide range of services to help you in various areas:
           </p>
           <ul className="serviceList">
-            <li className="serviceItem">Consultation en ligne</li>
-            <li className="serviceItem">Support technique</li>
-            <li className="serviceItem">Assistance administrative</li>
-            <li className="serviceItem">Et bien plus encore...</li>
+            <li className="serviceItem">Online Consultation</li>
+            <li className="serviceItem">Technical Support</li>
+            <li className="serviceItem">Administrative Assistance</li>
+            <li className="serviceItem">And much more...</li>
           </ul>
         </section>
-      </main>
 
-      <Footer />
+        <section className="section">
+          <h2 className="sectionTitle">Occupations</h2>
+          <p className="sectionContent">
+            Here is a brief overview of the occupations we cover:
+          </p>
+          <ul className="occupationList">
+            <li className="occupationItem">Software Developer</li>
+            <li className="occupationItem">Graphic Designer</li>
+            <li className="occupationItem">Project Manager</li>
+            <li className="occupationItem">And many more...</li>
+          </ul>
+          <button className="viewMoreButton" onClick={() => window.location.href='/occupations'}>View More</button>
+        </section>
+
+        <section className="section">
+          <h2 className="sectionTitle">Locations</h2>
+          <p className="sectionContent">
+            Here is a brief overview of the locations we serve:
+          </p>
+          <ul className="locationList">
+            <li className="locationItem">New York</li>
+            <li className="locationItem">Los Angeles</li>
+            <li className="locationItem">Chicago</li>
+            <li className="locationItem">And many more...</li>
+          </ul>
+          <button className="viewMoreButton" onClick={() => window.location.href='/locations'}>View More</button>
+        </section>
+
+      </main>
     </div>
   );
 }
