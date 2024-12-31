@@ -1,0 +1,3596 @@
+{
+  "jobs": [
+    {
+      "job": "UI/UX Designer"
+    },
+    {
+      "job": "Front End Developer"
+    },
+    {
+      "job": "Back End Developer"
+    },
+    {
+      "job": "Full Stack Developer"
+    },
+    {
+      "job": "Software Engineer",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Product Manager",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Data Scientist",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Digital Marketing Specialist",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Content Strategist"
+    },
+    {
+      "job": "SEO Specialist"
+    },
+    {
+      "job": "Product Designer"
+    },
+    {
+      "job": "User Researcher"
+    },
+    {
+      "job": "Scrum Master",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "DevOps Engineer",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Quality Assurance Engineer"
+    },
+    {
+      "job": "Mobile App Developer"
+    },
+    {
+      "job": "Cloud Architect"
+    },
+    {
+      "job": "UI/UX Lead"
+    },
+    {
+      "job": "Technical Support Specialist"
+    },
+    {
+      "job": "IT Project Manager"
+    },
+    {
+      "job": "Business Analyst"
+    },
+    {
+      "job": "Cybersecurity Analyst",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Social Media Manager"
+    },
+    {
+      "job": "Blockchain Developer"
+    },
+    {
+      "job": "AR/VR Developer"
+    },
+    {
+      "job": "IoT Specialist"
+    },
+    {
+      "job": "Data Analyst"
+    },
+    {
+      "job": "Systems Analyst"
+    },
+    {
+      "job": "UI/UX Architect"
+    },
+    {
+      "job": "Technical Writer"
+    },
+    {
+      "job": "UX Researcher"
+    },
+    {
+      "job": "E-commerce Manager"
+    },
+    {
+      "job": "Web Developer"
+    },
+    {
+      "job": "Cloud Engineer"
+    },
+    {
+      "job": "Chief Technology Officer"
+    },
+    {
+      "job": "Digital Product Manager"
+    },
+    {
+      "job": "Data Engineer"
+    },
+    {
+      "job": "SEO Manager"
+    },
+    {
+      "job": "Online Community Manager"
+    },
+    {
+      "job": "Growth Hacker"
+    },
+    {
+      "job": "App Developer"
+    },
+    {
+      "job": "Java Developer"
+    },
+    {
+      "job": "Python Developer"
+    },
+    {
+      "job": "Ruby on Rails Developer"
+    },
+    {
+      "job": "PHP Developer"
+    },
+    {
+      "job": "AI Engineer",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Machine Learning Engineer"
+    },
+    {
+      "job": "Data Visualization Specialist"
+    },
+    {
+      "job": "Quality Assurance Specialist"
+    },
+    {
+      "job": "Web Designer"
+    },
+    {
+      "job": "UX Copywriter"
+    },
+    {
+      "job": "Information Security Analyst"
+    },
+    {
+      "job": "Database Administrator"
+    },
+    {
+      "job": "Network Administrator"
+    },
+    {
+      "job": "User Interface Designer"
+    },
+    {
+      "job": "Technical Product Manager"
+    },
+    {
+      "job": "Hardware Engineer"
+    },
+    {
+      "job": "Software Architect"
+    },
+    {
+      "job": "Web Content Manager"
+    },
+    {
+      "job": "Game Developer"
+    },
+    {
+      "job": "IT Consultant"
+    },
+    {
+      "job": "UX Consultant"
+    },
+    {
+      "job": "AI Specialist"
+    },
+    {
+      "job": "Digital Strategist"
+    },
+    {
+      "job": "Cybersecurity Specialist"
+    },
+    {
+      "job": "Salesforce Developer"
+    },
+    {
+      "job": "Network Engineer"
+    },
+    {
+      "job": "Agile Coach"
+    },
+    {
+      "job": "Big Data Engineer"
+    },
+    {
+      "job": "API Developer"
+    },
+    {
+      "job": "Mobile Product Manager"
+    },
+    {
+      "job": "IT Manager"
+    },
+    {
+      "job": "Project Coordinator"
+    },
+    {
+      "job": "Front End Lead"
+    },
+    {
+      "job": "Content Manager"
+    },
+    {
+      "job": "UI Engineer"
+    },
+    {
+      "job": "Database Developer"
+    },
+    {
+      "job": "Product Owner"
+    },
+    {
+      "job": "Cloud Solutions Architect"
+    },
+    {
+      "job": "UI/UX Analyst"
+    },
+    {
+      "job": "Systems Administrator"
+    },
+    {
+      "job": "QA Tester"
+    },
+    {
+      "job": "Technical Recruiter"
+    },
+    {
+      "job": "Digital Analyst"
+    },
+    {
+      "job": "Customer Success Manager"
+    },
+    {
+      "job": "UX Illustrator"
+    },
+    {
+      "job": "Integration Specialist"
+    },
+    {
+      "job": "IT Support Specialist"
+    },
+    {
+      "job": "Data Architect"
+    },
+    {
+      "job": "Network Security Engineer"
+    },
+    {
+      "job": "Cloud Infrastructure Specialist"
+    },
+    {
+      "job": "AB Testing Specialist"
+    },
+    {
+      "job": "IoT Solutions Architect"
+    },
+    {
+      "job": "Front End Architect"
+    },
+    {
+      "job": "Frontend Developer"
+    },
+    {
+      "job": "Backend Developer"
+    },
+    {
+      "job": "Digital Marketer"
+    },
+    {
+      "job": "Sales Engineer"
+    },
+    {
+      "job": "Information Security Specialist"
+    },
+    {
+      "job": "Solutions Architect"
+    },
+    {
+      "job": "System Administrator"
+    },
+    {
+      "job": "IoT Developer"
+    },
+    {
+      "job": "UI/UX Researcher"
+    },
+    {
+      "job": "CRM Specialist"
+    },
+    {
+      "job": "UX Strategist"
+    },
+    {
+      "job": "SaaS Sales Manager"
+    },
+    {
+      "job": "Web Analyst"
+    },
+    {
+      "job": "AI Ethics Specialist"
+    },
+    {
+      "job": "Digital Transformation Manager"
+    },
+    {
+      "job": "Marketing Technologist"
+    },
+    {
+      "job": "Performance Analyst"
+    },
+    {
+      "job": "IT Operations Manager"
+    },
+    {
+      "job": "IT Business Analyst"
+    },
+    {
+      "job": "Frontend Architect"
+    },
+    {
+      "job": "Privacy Analyst"
+    },
+    {
+      "job": "UX Writer"
+    },
+    {
+      "job": "IT Security Specialist"
+    },
+    {
+      "job": "Product Marketing Manager"
+    },
+    {
+      "job": "DevSecOps Engineer"
+    },
+    {
+      "job": "Business Intelligence Analyst"
+    },
+    {
+      "job": "Robotics Engineer"
+    },
+    {
+      "job": "AR/VR Designer"
+    },
+    {
+      "job": "UX/UI Developer"
+    },
+    {
+      "job": "Scalability Engineer"
+    },
+    {
+      "job": "AI Architect"
+    },
+    {
+      "job": "Voice User Interface Designer"
+    },
+    {
+      "job": "Predictive Analyst"
+    },
+    {
+      "job": "UX/UI Architect"
+    },
+    {
+      "job": "Financial Data Analyst"
+    },
+    {
+      "job": "Product Analyst"
+    },
+    {
+      "job": "Machine Learning Specialist"
+    },
+    {
+      "job": "Virtual Assistant Developer"
+    },
+    {
+      "job": "API Specialist"
+    },
+    {
+      "job": "Chatbot Developer"
+    },
+    {
+      "job": "AR/VR Engineer"
+    },
+    {
+      "job": "SEO Consultant"
+    },
+    {
+      "job": "User Interface Developer"
+    },
+    {
+      "job": "Information Architect"
+    },
+    {
+      "job": "IT Systems Administrator"
+    },
+    {
+      "job": "Blockchain Specialist"
+    },
+    {
+      "job": "Security Software Engineer"
+    },
+    {
+      "job": "Fintech Analyst"
+    },
+    {
+      "job": "IoT Architect"
+    },
+    {
+      "job": "Systems Integrator"
+    },
+    {
+      "job": "UX/UI Designer"
+    },
+    {
+      "job": "Digital Marketing Manager"
+    },
+    {
+      "job": "Content Writer"
+    },
+    {
+      "job": "UI/UX Developer"
+    },
+    {
+      "job": "SEO Analyst"
+    },
+    {
+      "job": "Community Manager"
+    },
+    {
+      "job": "Digital Content Manager"
+    },
+    {
+      "job": "Chief Innovation Officer"
+    },
+    {
+      "job": "Integrated Marketing Manager"
+    },
+    {
+      "job": "Mobile App Designer"
+    },
+    {
+      "job": "Content Marketing Manager"
+    },
+    {
+      "job": "Graphic Designer"
+    },
+    {
+      "job": "Motion Graphics Designer"
+    },
+    {
+      "job": "UI Designer"
+    },
+    {
+      "job": "Content Editor"
+    },
+    {
+      "job": "Software Tester"
+    },
+    {
+      "job": "Quality Assurance Analyst"
+    },
+    {
+      "job": "SEO Copywriter"
+    },
+    {
+      "job": "Social Media Coordinator"
+    },
+    {
+      "job": "UX Designer",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Conversion Rate Optimizer"
+    },
+    {
+      "job": "IT Specialist"
+    },
+    {
+      "job": "Blockchain Architect"
+    },
+    {
+      "job": "CRM Administrator"
+    },
+    {
+      "job": "UX Analyst"
+    },
+    {
+      "job": "Mobile App Tester"
+    },
+    {
+      "job": "UX Engineer"
+    },
+    {
+      "job": "Social Media Strategist"
+    },
+    {
+      "job": "Digital Project Manager"
+    },
+    {
+      "job": "Software Developer"
+    },
+    {
+      "job": "Software Development Manager"
+    },
+    {
+      "job": "Web Analytics Specialist"
+    },
+    {
+      "job": "Digital Designer"
+    },
+    {
+      "job": "UX Artist"
+    },
+    {
+      "job": "AI Researcher"
+    },
+    {
+      "job": "VR Developer"
+    },
+    {
+      "job": "AR Developer"
+    },
+    {
+      "job": "UX Architect"
+    },
+    {
+      "job": "Frontend Designer"
+    },
+    {
+      "job": "Backend Architect"
+    },
+    {
+      "job": "Content Producer"
+    },
+    {
+      "job": "Digital Copywriter"
+    },
+    {
+      "job": "Brand Strategist"
+    },
+    {
+      "job": "API Architect"
+    },
+    {
+      "job": "Web Accessibility Specialist"
+    },
+    {
+      "job": "DevOps Specialist"
+    },
+    {
+      "job": "Security Analyst"
+    },
+    {
+      "job": "Website Manager"
+    },
+    {
+      "job": "Blockchain Engineer"
+    },
+    {
+      "job": "IT Administrator"
+    },
+    {
+      "job": "Multimedia Designer"
+    },
+    {
+      "job": "Digital Media Manager"
+    },
+    {
+      "job": "UX Assistant"
+    },
+    {
+      "job": "IT Director"
+    },
+    {
+      "job": "IT Technician"
+    },
+    {
+      "job": "Social Media Specialist"
+    },
+    {
+      "job": "Email Marketing Manager"
+    },
+    {
+      "job": "Project Manager"
+    },
+    {
+      "job": "Digital Producer"
+    },
+    {
+      "job": "Web Content Specialist"
+    },
+    {
+      "job": "User Research Specialist"
+    },
+    {
+      "job": "Flutter Developer"
+    },
+    {
+      "job": "React Native Developer"
+    },
+    {
+      "job": "Splash Screen Designer"
+    },
+    {
+      "job": "App Store Optimization Manager"
+    },
+    {
+      "job": "Email Marketing Specialist"
+    },
+    {
+      "job": "WordPress Developer"
+    },
+    {
+      "job": "Shopify Developer"
+    },
+    {
+      "job": "Magento Developer"
+    },
+    {
+      "job": "Shopify Expert"
+    },
+    {
+      "job": "Amazon Web Services Engineer"
+    },
+    {
+      "job": "Google Cloud Platform Engineer"
+    },
+    {
+      "job": "Microsoft Azure Engineer"
+    },
+    {
+      "job": "Artificial Intelligence Specialist"
+    },
+    {
+      "job": "Big Data Analyst"
+    },
+    {
+      "job": "Data Modeler"
+    },
+    {
+      "job": "Computer Vision Engineer"
+    },
+    {
+      "job": "Natural Language Processing Engineer"
+    },
+    {
+      "job": "Robotics Specialist"
+    },
+    {
+      "job": "Augmented Reality Developer"
+    },
+    {
+      "job": "Virtual Reality Developer"
+    },
+    {
+      "job": "Microservices Architect"
+    },
+    {
+      "job": "Microservices Developer"
+    },
+    {
+      "job": "Kubernetes Engineer"
+    },
+    {
+      "job": "Firmware Engineer"
+    },
+    {
+      "job": "Embedded Systems Engineer"
+    },
+    {
+      "job": "Embedded Systems Developer"
+    },
+    {
+      "job": "Gaming Developer"
+    },
+    {
+      "job": "Game Designer"
+    },
+    {
+      "job": "Game Artist"
+    },
+    {
+      "job": "VR Content Creator"
+    },
+    {
+      "job": "AR Content Creator"
+    },
+    {
+      "job": "AR/VR Content Creator"
+    },
+    {
+      "job": "AR/VR Developer Relations Manager"
+    },
+    {
+      "job": "Blockchain Analyst"
+    },
+    {
+      "job": "Cryptocurrency Specialist"
+    },
+    {
+      "job": "Crypto Trader"
+    },
+    {
+      "job": "Crypto Developer"
+    },
+    {
+      "job": "Penetration Tester"
+    },
+    {
+      "job": "Ethical Hacker"
+    },
+    {
+      "job": "Security Consultant"
+    },
+    {
+      "job": "Security Engineer"
+    },
+    {
+      "job": "Cybersecurity Architect"
+    },
+    {
+      "job": "Security Operations Manager"
+    },
+    {
+      "job": "Chief Information Security Officer"
+    },
+    {
+      "job": "Incident Response Analyst"
+    },
+    {
+      "job": "SOC Analyst"
+    },
+    {
+      "job": "Threat Intelligence Analyst"
+    },
+    {
+      "job": "Cloud DevOps Engineer"
+    },
+    {
+      "job": "Cloud Infrastructure Engineer"
+    },
+    {
+      "job": "Cloud Security Engineer"
+    },
+    {
+      "job": "Cloud Migration Specialist"
+    },
+    {
+      "job": "Systems Architect"
+    },
+    {
+      "job": "Infrastructure Architect"
+    },
+    {
+      "job": "IT Architect"
+    },
+    {
+      "job": "Enterprise Architect"
+    },
+    {
+      "job": "Technical Architect"
+    },
+    {
+      "job": "Big Data Architect"
+    },
+    {
+      "job": "Network Architect"
+    },
+    {
+      "job": "Solution Architect"
+    },
+    {
+      "job": "UI/UX Engineer"
+    },
+    {
+      "job": "UI/UX Specialist"
+    },
+    {
+      "job": "UI/UX Consultant"
+    },
+    {
+      "job": "UI/UX Director"
+    },
+    {
+      "job": "User Interface Engineer"
+    },
+    {
+      "job": "User Experience Designer"
+    },
+    {
+      "job": "User Experience Developer"
+    },
+    {
+      "job": "User Experience Engineer"
+    },
+    {
+      "job": "User Experience Specialist"
+    },
+    {
+      "job": "User Experience Architect"
+    },
+    {
+      "job": "User Experience Consultant"
+    },
+    {
+      "job": "User Interface/Experience Designer"
+    },
+    {
+      "job": "UI/UX/UI Designer"
+    },
+    {
+      "job": "UX/UI Engineer"
+    },
+    {
+      "job": "UX/UI Specialist"
+    },
+    {
+      "job": "UX/UI Consultant"
+    },
+    {
+      "job": "UX/UI Researcher"
+    },
+    {
+      "job": "UX/UI Lead"
+    },
+    {
+      "job": "UX/UI Director"
+    },
+    {
+      "job": "Graphics Designer"
+    },
+    {
+      "job": "Graphic Artist"
+    },
+    {
+      "job": "Graphic Developer"
+    },
+    {
+      "job": "Visual Designer"
+    },
+    {
+      "job": "Visual Artist"
+    },
+    {
+      "job": "Visual Developer"
+    },
+    {
+      "job": "Motion Graphic Artist"
+    },
+    {
+      "job": "Motion Graphic Developer"
+    },
+    {
+      "job": "Brand Identity Designer"
+    },
+    {
+      "job": "Brand Identity Artist"
+    },
+    {
+      "job": "Brand Identity Developer"
+    },
+    {
+      "job": "Brand Designer"
+    },
+    {
+      "job": "Brand Artist"
+    },
+    {
+      "job": "Brand Developer"
+    },
+    {
+      "job": "Illustrator"
+    },
+    {
+      "job": "Illustrative Artist"
+    },
+    {
+      "job": "Illustrative Designer"
+    },
+    {
+      "job": "Illustrative Developer"
+    },
+    {
+      "job": "Animator"
+    },
+    {
+      "job": "Animation Artist"
+    },
+    {
+      "job": "Animation Designer"
+    },
+    {
+      "job": "Animation Developer"
+    },
+    {
+      "job": "Digital Artist"
+    },
+    {
+      "job": "Digital Developer"
+    },
+    {
+      "job": "Web Artist"
+    },
+    {
+      "job": "Interactive Designer"
+    },
+    {
+      "job": "Interactive Artist"
+    },
+    {
+      "job": "Interactive Developer"
+    },
+    {
+      "job": "Multimedia Artist"
+    },
+    {
+      "job": "Multimedia Developer"
+    },
+    {
+      "job": "Mobile Designer"
+    },
+    {
+      "job": "Mobile Artist"
+    },
+    {
+      "job": "Mobile Developer"
+    },
+    {
+      "job": "App Designer"
+    },
+    {
+      "job": "App Artist"
+    },
+    {
+      "job": "UI Artist"
+    },
+    {
+      "job": "UI Developer",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Frontend Engineer"
+    },
+    {
+      "job": "Frontend Specialist"
+    },
+    {
+      "job": "Frontend Lead"
+    },
+    {
+      "job": "Frontend Director"
+    },
+    {
+      "job": "Backend Engineer"
+    },
+    {
+      "job": "Backend Specialist"
+    },
+    {
+      "job": "Backend Lead"
+    },
+    {
+      "job": "Backend Director"
+    },
+    {
+      "job": "Full Stack Engineer"
+    },
+    {
+      "job": "Full Stack Specialist"
+    },
+    {
+      "job": "Full Stack Architect"
+    },
+    {
+      "job": "Full Stack Lead"
+    },
+    {
+      "job": "Full Stack Director"
+    },
+    {
+      "job": "DevOps Architect"
+    },
+    {
+      "job": "DevOps Lead"
+    },
+    {
+      "job": "DevOps Director"
+    },
+    {
+      "job": "Site Reliability Engineer"
+    },
+    {
+      "job": "SRE Specialist"
+    },
+    {
+      "job": "SRE Architect"
+    },
+    {
+      "job": "SRE Lead"
+    },
+    {
+      "job": "SRE Manager"
+    },
+    {
+      "job": "Cloud Specialist"
+    },
+    {
+      "job": "Cloud Lead"
+    },
+    {
+      "job": "Cloud Manager"
+    },
+    {
+      "job": "Cloud Director"
+    },
+    {
+      "job": "ML Specialist"
+    },
+    {
+      "job": "ML Engineer"
+    },
+    {
+      "job": "ML Architect"
+    },
+    {
+      "job": "ML Lead"
+    },
+    {
+      "job": "ML Manager"
+    },
+    {
+      "job": "Data Specialist"
+    },
+    {
+      "job": "Data Lead"
+    },
+    {
+      "job": "Data Manager"
+    },
+    {
+      "job": "Tech Support Specialist"
+    },
+    {
+      "job": "QA Engineer"
+    },
+    {
+      "job": "Technical Program Manager"
+    },
+    {
+      "job": "Platform Engineer"
+    },
+    {
+      "job": "IT Support Technician"
+    },
+    {
+      "job": "Online Marketing Manager"
+    },
+    {
+      "job": "Data Technician"
+    },
+    {
+      "job": "Mobile App Architect"
+    },
+    {
+      "job": "Cybersecurity Engineer"
+    },
+    {
+      "job": "System Designer"
+    },
+    {
+      "job": "E-commerce Developer"
+    },
+    {
+      "job": "Cloud Solutions Manager"
+    },
+    {
+      "job": "Scalability Architect"
+    },
+    {
+      "job": "Tech Evangelist"
+    },
+    {
+      "job": "Information Systems Manager"
+    },
+    {
+      "job": "Data Governance Specialist"
+    },
+    {
+      "job": "UX Specialist"
+    },
+    {
+      "job": "Digital Communications Specialist"
+    },
+    {
+      "job": "Technical Account Manager"
+    },
+    {
+      "job": "UI Prototype Designer"
+    },
+    {
+      "job": "Data Analytics Manager"
+    },
+    {
+      "job": "AI Solutions Architect"
+    },
+    {
+      "job": "Platform Architect"
+    },
+    {
+      "job": "Technology Analyst"
+    },
+    {
+      "job": "QA Analyst"
+    },
+    {
+      "job": "IT Operations Analyst"
+    },
+    {
+      "job": "Digital Content Strategist"
+    },
+    {
+      "job": "Chief Information Officer"
+    },
+    {
+      "job": "Digital Brand Manager"
+    },
+    {
+      "job": "Web Security Specialist"
+    },
+    {
+      "job": "Network Security Specialist"
+    },
+    {
+      "job": "Cybersecurity Consultant"
+    },
+    {
+      "job": "Digital UX Manager"
+    },
+    {
+      "job": "E-commerce Specialist"
+    },
+    {
+      "job": "Systems Development Manager"
+    },
+    {
+      "job": "User Interface Manager"
+    },
+    {
+      "job": "SEO Team Lead"
+    },
+    {
+      "job": "Digital Advertising Specialist"
+    },
+    {
+      "job": "IT Quality Assurance Manager"
+    },
+    {
+      "job": "Technical Support Engineer"
+    },
+    {
+      "job": "Middleware Developer"
+    },
+    {
+      "job": "Application Security Engineer"
+    },
+    {
+      "job": "Ad Tech Specialist"
+    },
+    {
+      "job": "AI Product Manager"
+    },
+    {
+      "job": "Blockchain Solutions Architect"
+    },
+    {
+      "job": "Cloud Security Specialist"
+    },
+    {
+      "job": "IT Compliance Analyst"
+    },
+    {
+      "job": "Web Performance Specialist"
+    },
+    {
+      "job": "Information Security Manager"
+    },
+    {
+      "job": "User Acceptance Tester"
+    },
+    {
+      "job": "UI Prototype Developer"
+    },
+    {
+      "job": "UX Automation Engineer"
+    },
+    {
+      "job": "IT Solution Architect"
+    },
+    {
+      "job": "Data Migration Specialist"
+    },
+    {
+      "job": "Digital Customer Experience Manager"
+    },
+    {
+      "job": "E-commerce Strategist"
+    },
+    {
+      "job": "Software Development Engineer"
+    },
+    {
+      "job": "Data Security Analyst"
+    },
+    {
+      "job": "AI Solutions Manager"
+    },
+    {
+      "job": "System Integration Specialist"
+    },
+    {
+      "job": "Network Deployment Engineer"
+    },
+    {
+      "job": "Cybersecurity Operations Manager"
+    },
+    {
+      "job": "Web Development Manager"
+    },
+    {
+      "job": "SEO Team Manager"
+    },
+    {
+      "job": "API Engineer"
+    },
+    {
+      "job": "Digital Transformation Consultant"
+    },
+    {
+      "job": "IT Governance Specialist"
+    },
+    {
+      "job": "Web Accessibility Consultant"
+    },
+    {
+      "job": "AR/VR Content Developer"
+    },
+    {
+      "job": "Blockchain Product Manager"
+    },
+    {
+      "job": "Tech Project Manager"
+    },
+    {
+      "job": "Startup Founder"
+    },
+    {
+      "job": "Digital Community Manager"
+    },
+    {
+      "job": "Information Systems Analyst"
+    },
+    {
+      "job": "Data Governance Manager"
+    },
+    {
+      "job": "UX Design Manager"
+    },
+    {
+      "job": "IT Operations Coordinator"
+    },
+    {
+      "job": "Online Reputation Manager"
+    },
+    {
+      "job": "Mobile App Release Manager"
+    },
+    {
+      "job": "Backend Development Manager"
+    },
+    {
+      "job": "Scrum Product Owner"
+    },
+    {
+      "job": "Tech Talent Manager"
+    },
+    {
+      "job": "Cybersecurity Incident Response Manager"
+    },
+    {
+      "job": "Web Analytics Manager"
+    },
+    {
+      "job": "Growth Marketing Manager"
+    },
+    {
+      "job": "Digital Acceleration Specialist"
+    },
+    {
+      "job": "Software Product Manager"
+    },
+    {
+      "job": "SEO Team Coordinator"
+    },
+    {
+      "job": "Chief Digital Officer"
+    },
+    {
+      "job": "Cloud Deployment Specialist"
+    },
+    {
+      "job": "Digital User Experience Manager"
+    },
+    {
+      "job": "Product Design Manager"
+    },
+    {
+      "job": "Data Analytics Architect"
+    },
+    {
+      "job": "AI Product Owner"
+    },
+    {
+      "job": "Network Infrastructure Manager"
+    },
+    {
+      "job": "UX Innovation Strategist"
+    },
+    {
+      "job": "Content Design Manager"
+    },
+    {
+      "job": "Platform Development Manager"
+    },
+    {
+      "job": "E-commerce Technology Manager"
+    },
+    {
+      "job": "IT Risk Management Specialist"
+    },
+    {
+      "job": "User Interface Analyst"
+    },
+    {
+      "job": "Web Security Manager"
+    },
+    {
+      "job": "Cybersecurity Solutions Manager"
+    },
+    {
+      "job": "Digital Optimization Specialist"
+    },
+    {
+      "job": "Software Engineering Lead"
+    },
+    {
+      "job": "Cloud Security Manager"
+    },
+    {
+      "job": "IT Performance Analyst"
+    },
+    {
+      "job": "Blockchain Development Manager"
+    },
+    {
+      "job": "Tech Support Team Lead"
+    },
+    {
+      "job": "Startup CTO"
+    },
+    {
+      "job": "AI Research Manager"
+    },
+    {
+      "job": "System Integration Manager"
+    },
+    {
+      "job": "Network Security Analyst"
+    },
+    {
+      "job": "Web Performance Manager"
+    },
+    {
+      "job": "SEO Project Manager"
+    },
+    {
+      "job": "E-commerce Technology Specialist"
+    },
+    {
+      "job": "Software Development Director"
+    },
+    {
+      "job": "Product Innovation Manager"
+    },
+    {
+      "job": "AI Expert"
+    },
+    {
+      "job": "UX Design Lead"
+    },
+    {
+      "job": "IT Compliance Manager"
+    },
+    {
+      "job": "Web Accessibility Coordinator"
+    },
+    {
+      "job": "Cybersecurity Response Manager"
+    },
+    {
+      "job": "Data Migration Manager"
+    },
+    {
+      "job": "AR/VR Experience Designer"
+    },
+    {
+      "job": "Blockchain Strategy Manager"
+    },
+    {
+      "job": "Tech Project Coordinator"
+    },
+    {
+      "job": "Digital Acceleration Manager"
+    },
+    {
+      "job": "IT Governance Analyst"
+    },
+    {
+      "job": "API Development Manager"
+    },
+    {
+      "job": "Cloud Migration Manager"
+    },
+    {
+      "job": "UX Design Coordinator"
+    },
+    {
+      "job": "Startup CEO"
+    },
+    {
+      "job": "Information Systems Specialist"
+    },
+    {
+      "job": "Tech Talent Coordinator"
+    },
+    {
+      "job": "Online Reputation Coordinator"
+    },
+    {
+      "job": "Mobile App Release Coordinator"
+    },
+    {
+      "job": "Backend Development Specialist"
+    },
+    {
+      "job": "Scrum Master Coordinator"
+    },
+    {
+      "job": "Cybersecurity Incident Response Coordinator"
+    },
+    {
+      "job": "Web Analytics Coordinator"
+    },
+    {
+      "job": "Growth Marketing Coordinator"
+    },
+    {
+      "job": "Digital Acceleration Coordinator"
+    },
+    {
+      "job": "Software Product Coordinator"
+    },
+    {
+      "job": "SEO Coordinator"
+    },
+    {
+      "job": "Chief Digital Officer Coordinator"
+    },
+    {
+      "job": "Cloud Deployment Coordinator"
+    },
+    {
+      "job": "Digital User Experience Coordinator"
+    },
+    {
+      "job": "Product Design Coordinator"
+    },
+    {
+      "job": "Data Analytics Coordinator"
+    },
+    {
+      "job": "AI Coordinator"
+    },
+    {
+      "job": "Network Infrastructure Coordinator"
+    },
+    {
+      "job": "UX Innovation Coordinator"
+    },
+    {
+      "job": "Content Design Coordinator"
+    },
+    {
+      "job": "Platform Development Coordinator"
+    },
+    {
+      "job": "E-commerce Technology Coordinator"
+    },
+    {
+      "job": "IT Risk Management Coordinator"
+    },
+    {
+      "job": "User Interface Coordinator"
+    },
+    {
+      "job": "Web Security Coordinator"
+    },
+    {
+      "job": "Cybersecurity Solutions Coordinator"
+    },
+    {
+      "job": "Digital Optimization Coordinator"
+    },
+    {
+      "job": "Software Engineering Coordinator"
+    },
+    {
+      "job": "Cloud Security Coordinator"
+    },
+    {
+      "job": "IT Performance Coordinator"
+    },
+    {
+      "job": "Blockchain Development Coordinator"
+    },
+    {
+      "job": "Tech Support Coordinator"
+    },
+    {
+      "job": "Data Governance Coordinator"
+    },
+    {
+      "job": "AI Research Coordinator"
+    },
+    {
+      "job": "System Integration Coordinator"
+    },
+    {
+      "job": "Network Security Coordinator"
+    },
+    {
+      "job": "Cybersecurity Coordinator"
+    },
+    {
+      "job": "Web Performance Coordinator"
+    },
+    {
+      "job": "SEO Project Coordinator"
+    },
+    {
+      "job": "Software Development Coordinator"
+    },
+    {
+      "job": "Product Innovation Coordinator"
+    },
+    {
+      "job": "IT Compliance Coordinator"
+    },
+    {
+      "job": "Information Security Coordinator"
+    },
+    {
+      "job": "Cybersecurity Response Coordinator"
+    },
+    {
+      "job": "Digital Transformation Coordinator"
+    },
+    {
+      "job": "Data Migration Coordinator"
+    },
+    {
+      "job": "AR/VR Experience Coordinator"
+    },
+    {
+      "job": "Blockchain Strategy Coordinator"
+    },
+    {
+      "job": "IT Governance Coordinator"
+    },
+    {
+      "job": "API Development Coordinator"
+    },
+    {
+      "job": "Cloud Migration Coordinator"
+    },
+    {
+      "job": "Web Engineer"
+    },
+    {
+      "job": "Marketing Analyst"
+    },
+    {
+      "job": "Mobile UI Designer"
+    },
+    {
+      "job": "SEM Specialist"
+    },
+    {
+      "job": "Application Developer"
+    },
+    {
+      "job": "Marketing Automation Specialist"
+    },
+    {
+      "job": "Computer Systems Analyst"
+    },
+    {
+      "job": "Junior Software Developer"
+    },
+    {
+      "job": "UX Director"
+    },
+    {
+      "job": "SEO Content Writer"
+    },
+    {
+      "job": "Technical Project Manager"
+    },
+    {
+      "job": "Digital Project Coordinator"
+    },
+    {
+      "job": "UX Team Lead"
+    },
+    {
+      "job": "UI/UX Manager"
+    },
+    {
+      "job": "Business Systems Analyst"
+    },
+    {
+      "job": "UX Lead"
+    },
+    {
+      "job": "Customer Experience Manager"
+    },
+    {
+      "job": "Application Support Specialist"
+    },
+    {
+      "job": "Data Quality Analyst"
+    },
+    {
+      "job": "Lead Developer"
+    },
+    {
+      "job": "Digital Solutions Architect"
+    },
+    {
+      "job": "Technical Solutions Specialist"
+    },
+    {
+      "job": "Web Producer"
+    },
+    {
+      "job": "Systems Engineer"
+    },
+    {
+      "job": "Demand Generation Specialist"
+    },
+    {
+      "job": "IT Analyst"
+    },
+    {
+      "job": "UX/UI Lead Designer"
+    },
+    {
+      "job": "Technical Consultant"
+    },
+    {
+      "job": "Web Operations Manager"
+    },
+    {
+      "job": "E-commerce Analyst"
+    },
+    {
+      "job": "UX/UI Artist"
+    },
+    {
+      "job": "Digital Campaign Manager"
+    },
+    {
+      "job": "Information Technology Analyst"
+    },
+    {
+      "job": "Web Content Strategist"
+    },
+    {
+      "job": "Frontend Developer Designer"
+    },
+    {
+      "job": "Systems Administrator Manager"
+    },
+    {
+      "job": "SEO Optimization Specialist"
+    },
+    {
+      "job": "UX Coach"
+    },
+    {
+      "job": "UX Manager"
+    },
+    {
+      "job": "Digital Operations Manager"
+    },
+    {
+      "job": "Frontend Developer Lead"
+    },
+    {
+      "job": "CRM System Analyst"
+    },
+    {
+      "job": "Artificial Intelligence Engineer"
+    },
+    {
+      "job": "Copywriter"
+    },
+    {
+      "job": "Video Producer"
+    },
+    {
+      "job": "Digital Content Creator"
+    },
+    {
+      "job": "User Experience Director"
+    },
+    {
+      "job": "Lead Software Engineer"
+    },
+    {
+      "job": "Mobile Architect"
+    },
+    {
+      "job": "Web Architect"
+    },
+    {
+      "job": "Internet of Things Specialist"
+    },
+    {
+      "job": "Data Analyst Intern"
+    },
+    {
+      "job": "Marketing Specialist"
+    },
+    {
+      "job": "Data Analyst Specialist"
+    },
+    {
+      "job": "Content Creator"
+    },
+    {
+      "job": "Lead Generation Specialist"
+    },
+    {
+      "job": "Automation Engineer"
+    },
+    {
+      "job": "API Integration Specialist"
+    },
+    {
+      "job": "Tech Recruiter"
+    },
+    {
+      "job": "Release Manager"
+    },
+    {
+      "job": "System Analyst"
+    },
+    {
+      "job": "Quantum Computing Specialist"
+    },
+    {
+      "job": "Virtualization Engineer"
+    },
+    {
+      "job": "DNS Specialist"
+    },
+    {
+      "job": "Usability Analyst"
+    },
+    {
+      "job": "Web Performance Analyst"
+    },
+    {
+      "job": "User Experience Evangelist"
+    },
+    {
+      "job": "Web Optimization Specialist"
+    },
+    {
+      "job": "Virtual Reality Designer"
+    },
+    {
+      "job": "Voice Interface Designer"
+    },
+    {
+      "job": "MVP Developer"
+    },
+    {
+      "job": "Deep Learning Specialist"
+    },
+    {
+      "job": "QA Automation Engineer"
+    },
+    {
+      "job": "Content Marketing Strategist"
+    },
+    {
+      "job": "AI Ethicist"
+    },
+    {
+      "job": "Information Technology Director"
+    },
+    {
+      "job": "Localization Manager"
+    },
+    {
+      "job": "Web Accessibility Designer"
+    },
+    {
+      "job": "Web Accessibility Developer"
+    },
+    {
+      "job": "HR Manager"
+    },
+    {
+      "job": "Recruiter"
+    },
+    {
+      "job": "Account Manager"
+    },
+    {
+      "job": "Brand Manager"
+    },
+    {
+      "job": "PR Manager"
+    },
+    {
+      "job": "Business Development Representative"
+    },
+    {
+      "job": "User Acquisition Manager"
+    },
+    {
+      "job": "Conversion Rate Optimization Specialist"
+    },
+    {
+      "job": "Data Privacy Specialist"
+    },
+    {
+      "job": "Compliance Analyst"
+    },
+    {
+      "job": "IT Auditor"
+    },
+    {
+      "job": "RPA Developer",
+      "description": "",
+      "slug": ""
+    },
+    {
+      "job": "Supply Chain Analyst"
+    },
+    {
+      "job": "Innovation Manager"
+    },
+    {
+      "job": "Tech Policy Analyst"
+    },
+    {
+      "job": "EdTech Specialist"
+    },
+    {
+      "job": "Neuroscience Researcher"
+    },
+    {
+      "job": "HealthTech Consultant"
+    },
+    {
+      "job": "Content Marketer"
+    },
+    {
+      "job": "Business Development Manager"
+    },
+    {
+      "job": "Chief Marketing Officer"
+    },
+    {
+      "job": "Health Tech Specialist"
+    },
+    {
+      "job": "IoT Engineer"
+    },
+    {
+      "job": "AI Ethics Manager"
+    },
+    {
+      "job": "Robotic Process Automation Specialist"
+    },
+    {
+      "job": "Chief Operating Officer"
+    },
+    {
+      "job": "Chief Data Officer"
+    },
+    {
+      "job": "Product Evangelist"
+    },
+    {
+      "job": "Lead UI Designer"
+    },
+    {
+      "job": "Lead Backend Developer"
+    },
+    {
+      "job": "Performance Marketing Analyst"
+    },
+    {
+      "job": "SaaS Product Manager"
+    },
+    {
+      "job": "Cloud Security Architect"
+    },
+    {
+      "job": "Voice UI Designer"
+    },
+    {
+      "job": "Augmented Reality Designer"
+    },
+    {
+      "job": "Pentester"
+    },
+    {
+      "job": "Audio Engineer"
+    },
+    {
+      "job": "AI Trainer"
+    },
+    {
+      "job": "Digital Accessibility Specialist"
+    },
+    {
+      "job": "Agile Project Manager"
+    },
+    {
+      "job": "Backend Infrastructure Engineer"
+    },
+    {
+      "job": "Software Quality Assurance Tester"
+    },
+    {
+      "job": "Multimedia Content Creator"
+    },
+    {
+      "job": "Data Governance Analyst"
+    },
+    {
+      "job": "Technical Solution Architect"
+    },
+    {
+      "job": "Mobile Marketing Specialist"
+    },
+    {
+      "job": "Content Designer"
+    },
+    {
+      "job": "Technology Evangelist"
+    },
+    {
+      "job": "Technology Consultant"
+    },
+    {
+      "job": "Digital Experience Manager"
+    },
+    {
+      "job": "IT Infrastructure Manager"
+    },
+    {
+      "job": "Product Marketer"
+    },
+    {
+      "job": "IT Solutions Architect"
+    },
+    {
+      "job": "Digital Engagement Manager"
+    },
+    {
+      "job": "Technology Integration Specialist"
+    },
+    {
+      "job": "Lead Data Scientist"
+    },
+    {
+      "job": "IT Service Manager"
+    },
+    {
+      "job": "Backend Software Engineer"
+    },
+    {
+      "job": "Video Content Creator"
+    },
+    {
+      "job": "VoIP Engineer"
+    },
+    {
+      "job": "Quality Assurance Tester"
+    },
+    {
+      "job": "Javascript Developer"
+    },
+    {
+      "job": "Android Developer"
+    },
+    {
+      "job": "iOS Developer"
+    },
+    {
+      "job": "React Developer"
+    },
+    {
+      "job": "Angular Developer"
+    },
+    {
+      "job": "Unity Developer"
+    },
+    {
+      "job": "UI Animation Designer"
+    },
+    {
+      "job": "AR Content Developer"
+    },
+    {
+      "job": "UI Designer Developer"
+    },
+    {
+      "job": "Chatbot Architect"
+    },
+    {
+      "job": "VR Experience Designer"
+    },
+    {
+      "job": "Software Engineering Manager"
+    },
+    {
+      "job": "AR Strategist"
+    },
+    {
+      "job": "Technical Product Owner"
+    },
+    {
+      "job": "Head of Growth"
+    },
+    {
+      "job": "Deep Learning Engineer"
+    },
+    {
+      "job": "AI Developer"
+    },
+    {
+      "job": "SaaS Implementation Specialist"
+    },
+    {
+      "job": "IT Security Analyst"
+    },
+    {
+      "job": "Server Administrator"
+    },
+    {
+      "job": "Platform Developer"
+    },
+    {
+      "job": "Systems Integration Specialist"
+    },
+    {
+      "job": "Database Manager"
+    },
+    {
+      "job": "Cryptocurrency Analyst"
+    },
+    {
+      "job": "PPC Specialist"
+    },
+    {
+      "job": "UX Developer"
+    },
+    {
+      "job": "Database Engineer"
+    },
+    {
+      "job": "Infrastructure Engineer"
+    },
+    {
+      "job": "Distributed Systems Engineer"
+    },
+    {
+      "job": "Cryptocurrency Developer"
+    },
+    {
+      "job": "UI Architect"
+    },
+    {
+      "job": "ERP Specialist"
+    },
+    {
+      "job": "Network Analyst"
+    },
+    {
+      "job": "Cloud Analyst"
+    },
+    {
+      "job": "Database Analyst"
+    },
+    {
+      "job": "Director of IT"
+    },
+    {
+      "job": "CTO"
+    },
+    {
+      "job": "CIO"
+    },
+    {
+      "job": "CEO"
+    },
+    {
+      "job": "Chief Product Officer"
+    },
+    {
+      "job": "Partnerships Manager"
+    },
+    {
+      "job": "Incubator Manager"
+    },
+    {
+      "job": "Startup Advisor"
+    },
+    {
+      "job": "Technical Evangelist"
+    },
+    {
+      "job": "Mobile UX Designer"
+    },
+    {
+      "job": "Tech Lead"
+    },
+    {
+      "job": "UI Animator"
+    },
+    {
+      "job": "ICT Consultant"
+    },
+    {
+      "job": "MERN Stack Developer"
+    },
+    {
+      "job": "Scala Developer"
+    },
+    {
+      "job": "Drupal Developer"
+    },
+    {
+      "job": "Voice Interaction Designer"
+    },
+    {
+      "job": "Fintech Developer"
+    },
+    {
+      "job": "Legal Tech Consultant"
+    },
+    {
+      "job": "Healthcare IT Specialist"
+    },
+    {
+      "job": "eLearning Developer"
+    },
+    {
+      "job": "IT Coordinator"
+    },
+    {
+      "job": "Digital Product Owner"
+    },
+    {
+      "job": "Big Data Specialist"
+    },
+    {
+      "job": "Cloud Computing Engineer"
+    },
+    {
+      "job": "Code Quality Engineer"
+    },
+    {
+      "job": "Business Process Analyst"
+    },
+    {
+      "job": "Web Operations Engineer"
+    },
+    {
+      "job": "UX Visual Designer"
+    },
+    {
+      "job": "Software Development Engineer in Test"
+    },
+    {
+      "job": "Mobile Platform Architect"
+    },
+    {
+      "job": "Digital Media Buyer"
+    },
+    {
+      "job": "Wireframe Designer"
+    },
+    {
+      "job": "Digital Content Specialist"
+    },
+    {
+      "job": "User Support Specialist"
+    },
+    {
+      "job": "IT Trainer"
+    },
+    {
+      "job": "Social Media Analyst"
+    },
+    {
+      "job": "Market Research Analyst"
+    },
+    {
+      "job": "Data Wrangler"
+    },
+    {
+      "job": "Systems Engineering Manager"
+    },
+    {
+      "job": "SysAdmin"
+    },
+    {
+      "job": "Technical SEO Manager"
+    },
+    {
+      "job": "Front End Engineer"
+    },
+    {
+      "job": "Security Operations Analyst"
+    },
+    {
+      "job": "Mobile App Product Manager"
+    },
+    {
+      "job": "Data Mining Specialist"
+    },
+    {
+      "job": "Mobile Game Developer"
+    },
+    {
+      "job": "Full Stack Web Developer"
+    },
+    {
+      "job": "Tech Journalist"
+    },
+    {
+      "job": "IT Purchasing Manager"
+    },
+    {
+      "job": "Data Warehouse Specialist"
+    },
+    {
+      "job": "DNS Administrator"
+    },
+    {
+      "job": "Financial Analyst"
+    },
+    {
+      "job": "Accountant"
+    },
+    {
+      "job": "Bookkeeper"
+    },
+    {
+      "job": "Financial Controller"
+    },
+    {
+      "job": "Credit Analyst"
+    },
+    {
+      "job": "Audit Manager"
+    },
+    {
+      "job": "Risk Manager"
+    },
+    {
+      "job": "Tax Specialist"
+    },
+    {
+      "job": "Investment Analyst"
+    },
+    {
+      "job": "Treasury Analyst"
+    },
+    {
+      "job": "Financial Planner"
+    },
+    {
+      "job": "Cost Accountant"
+    },
+    {
+      "job": "Budget Analyst"
+    },
+    {
+      "job": "Actuary"
+    },
+    {
+      "job": "Financial Modeller"
+    },
+    {
+      "job": "Forensic Accountant"
+    },
+    {
+      "job": "Revenue Manager"
+    },
+    {
+      "job": "Fraud Analyst"
+    },
+    {
+      "job": "Billing Specialist"
+    },
+    {
+      "job": "Tax Accountant"
+    },
+    {
+      "job": "Payroll Administrator"
+    },
+    {
+      "job": "Senior Accountant"
+    },
+    {
+      "job": "Financial Reporting Manager"
+    },
+    {
+      "job": "Internal Auditor"
+    },
+    {
+      "job": "Controller"
+    },
+    {
+      "job": "Revenue Analyst"
+    },
+    {
+      "job": "Credit Manager"
+    },
+    {
+      "job": "Financial Accountant"
+    },
+    {
+      "job": "Accounts Receivable Manager"
+    },
+    {
+      "job": "Financial Auditor"
+    },
+    {
+      "job": "Tax Manager"
+    },
+    {
+      "job": "Financial Reporting Analyst"
+    },
+    {
+      "job": "Cost Analyst"
+    },
+    {
+      "job": "Finance Manager"
+    },
+    {
+      "job": "Financial Systems Analyst"
+    },
+    {
+      "job": "Mergers and Acquisitions Analyst"
+    },
+    {
+      "job": "Accounts Payable Specialist"
+    },
+    {
+      "job": "Financial Operations Manager"
+    },
+    {
+      "job": "Credit Analyst Manager"
+    },
+    {
+      "job": "Tax Analyst"
+    },
+    {
+      "job": "Senior Financial Analyst"
+    },
+    {
+      "job": "Billing Manager"
+    },
+    {
+      "job": "Finance Director"
+    },
+    {
+      "job": "Auditor"
+    },
+    {
+      "job": "Corporate Accountant"
+    },
+    {
+      "job": "Cost Controller"
+    },
+    {
+      "job": "Finance Controller"
+    },
+    {
+      "job": "Accounts Receivable Analyst"
+    },
+    {
+      "job": "Equity Analyst"
+    },
+    {
+      "job": "Tax Preparer"
+    },
+    {
+      "job": "Financial Account Manager"
+    },
+    {
+      "job": "Financial Analyst Manager"
+    },
+    {
+      "job": "Forensic Auditor"
+    },
+    {
+      "job": "Billing Coordinator"
+    },
+    {
+      "job": "Financial Compliance Analyst"
+    },
+    {
+      "job": "Investor Relations Analyst"
+    },
+    {
+      "job": "Tax Advisor"
+    },
+    {
+      "job": "Accounting Manager"
+    },
+    {
+      "job": "Audit Director"
+    },
+    {
+      "job": "Cost Accountant Manager"
+    },
+    {
+      "job": "Treasury Manager"
+    },
+    {
+      "job": "Financial Risk Analyst"
+    },
+    {
+      "job": "Financial Account Analyst"
+    },
+    {
+      "job": "Credit Risk Manager"
+    },
+    {
+      "job": "Financial Consultant"
+    },
+    {
+      "job": "Payroll Manager"
+    },
+    {
+      "job": "Cost Accounting Manager"
+    },
+    {
+      "job": "Tax Director"
+    },
+    {
+      "job": "Revenue Accountant"
+    },
+    {
+      "job": "Financial Analyst Supervisor"
+    },
+    {
+      "job": "Billing Accountant"
+    },
+    {
+      "job": "Corporate Treasurer"
+    },
+    {
+      "job": "Tax Consultant"
+    },
+    {
+      "job": "Financial Systems Manager"
+    },
+    {
+      "job": "Forensic Accountant Manager"
+    },
+    {
+      "job": "Cash Manager"
+    },
+    {
+      "job": "Accounts Payable Analyst"
+    },
+    {
+      "job": "Investment Banker"
+    },
+    {
+      "job": "Accounting Analyst"
+    },
+    {
+      "job": "Finance Deputy Director"
+    },
+    {
+      "job": "Credit Specialist"
+    },
+    {
+      "job": "Senior Bookkeeper"
+    },
+    {
+      "job": "Tax Compliance Analyst"
+    },
+    {
+      "job": "Financial Forecast Analyst"
+    },
+    {
+      "job": "Financial Planning Analyst"
+    },
+    {
+      "job": "Credit Analyst Supervisor"
+    },
+    {
+      "job": "Finance Analyst"
+    },
+    {
+      "job": "Corporate Financial Analyst"
+    },
+    {
+      "job": "Tax and Audit Manager"
+    },
+    {
+      "job": "Accounts Receivable Supervisor"
+    },
+    {
+      "job": "Audit Manager Supervisor"
+    },
+    {
+      "job": "Finance Executive Manager"
+    },
+    {
+      "job": "Treasury Analyst Manager"
+    },
+    {
+      "job": "Accounts Receivable Specialist"
+    },
+    {
+      "job": "Payroll Specialist"
+    },
+    {
+      "job": "Compliance Officer"
+    },
+    {
+      "job": "Risk Analyst"
+    },
+    {
+      "job": "Accounts Manager"
+    },
+    {
+      "job": "Collections Specialist"
+    },
+    {
+      "job": "Senior Tax Accountant"
+    },
+    {
+      "job": "Assistant Controller"
+    },
+    {
+      "job": "Investment Manager"
+    },
+    {
+      "job": "Finance Assistant"
+    },
+    {
+      "job": "Accounts Payable Manager"
+    },
+    {
+      "job": "Finance Administrator"
+    },
+    {
+      "job": "Financial Analyst Coordinator"
+    },
+    {
+      "job": "Collections Coordinator"
+    },
+    {
+      "job": "Financial Reporting Coordinator"
+    },
+    {
+      "job": "Tax Supervisor"
+    },
+    {
+      "job": "Payroll Coordinator"
+    },
+    {
+      "job": "Financial Auditor Specialist"
+    },
+    {
+      "job": "Credit Analyst Coordinator"
+    },
+    {
+      "job": "Budget Analyst Coordinator"
+    },
+    {
+      "job": "Accounts Payable Coordinator"
+    },
+    {
+      "job": "Accounts Receivable Coordinator"
+    },
+    {
+      "job": "Departmental Accountant"
+    },
+    {
+      "job": "Senior Treasury Analyst"
+    },
+    {
+      "job": "Senior Financial Planner"
+    },
+    {
+      "job": "Collections Manager"
+    },
+    {
+      "job": "Senior Tax Accountant Manager"
+    },
+    {
+      "job": "Finance Specialist"
+    },
+    {
+      "job": "Financial Accountant Manager"
+    },
+    {
+      "job": "Accounts Payable Specialist Manager"
+    },
+    {
+      "job": "Accounts Receivable Specialist Manager"
+    },
+    {
+      "job": "Senior Tax Accountant Specialist"
+    },
+    {
+      "job": "Tax Analyst Manager"
+    },
+    {
+      "job": "Payroll Specialist Manager"
+    },
+    {
+      "job": "Budget Analyst Manager"
+    },
+    {
+      "job": "Compliance Manager"
+    },
+    {
+      "job": "Finance Operations Manager"
+    },
+    {
+      "job": "Financial Controller Manager"
+    },
+    {
+      "job": "Risk Analyst Manager"
+    },
+    {
+      "job": "Investment Analyst Manager"
+    },
+    {
+      "job": "Finance Planning Manager"
+    },
+    {
+      "job": "Accounts Manager Manager"
+    },
+    {
+      "job": "Tax Accountant Manager"
+    },
+    {
+      "job": "Audit Analyst"
+    },
+    {
+      "job": "Financial Translator"
+    },
+    {
+      "job": "Financial Manager Assistant"
+    },
+    {
+      "job": "Accounts Payable Admin"
+    },
+    {
+      "job": "Accounts Receivable Admin"
+    },
+    {
+      "job": "Tax Manager Assistant"
+    },
+    {
+      "job": "Budget Analyst Assistant"
+    },
+    {
+      "job": "Financial Analyst Assistant"
+    },
+    {
+      "job": "Tax Analyst Assistant"
+    },
+    {
+      "job": "Audit Assistant"
+    },
+    {
+      "job": "Compliance Assistant"
+    },
+    {
+      "job": "Credit Analyst Assistant"
+    },
+    {
+      "job": "Risk Analyst Assistant"
+    },
+    {
+      "job": "Chief Financial Officer"
+    },
+    {
+      "job": "Accounting Supervisor"
+    },
+    {
+      "job": "Junior Financial Analyst"
+    },
+    {
+      "job": "Senior Auditor"
+    },
+    {
+      "job": "Accounting Clerk"
+    },
+    {
+      "job": "Loan Processor"
+    },
+    {
+      "job": "Accounts Receivable Clerk"
+    },
+    {
+      "job": "Accounts Payable Clerk"
+    },
+    {
+      "job": "Financial Advisor"
+    },
+    {
+      "job": "Asset Manager"
+    },
+    {
+      "job": "Investor Relations Manager"
+    },
+    {
+      "job": "Accounting Consultant"
+    },
+    {
+      "job": "Finance Coordinator"
+    },
+    {
+      "job": "Fund Accountant"
+    },
+    {
+      "job": "Accounting Assistant"
+    },
+    {
+      "job": "Junior Accountant"
+    },
+    {
+      "job": "Senior Tax Analyst"
+    },
+    {
+      "job": "Finance Associate"
+    },
+    {
+      "job": "Public Accountant"
+    },
+    {
+      "job": "Quantitative Analyst"
+    },
+    {
+      "job": "Market Risk Analyst"
+    },
+    {
+      "job": "Collections Analyst"
+    },
+    {
+      "job": "Financial Operations Analyst"
+    },
+    {
+      "job": "Finance Officer"
+    },
+    {
+      "job": "Audit Senior"
+    },
+    {
+      "job": "Financial Specialist"
+    },
+    {
+      "job": "Accounting Technician"
+    },
+    {
+      "job": "Accounts Payable Administrator"
+    },
+    {
+      "job": "Finance Clerk"
+    },
+    {
+      "job": "Public Accountant Assistant"
+    },
+    {
+      "job": "Financial Associate"
+    },
+    {
+      "job": "Corporate Finance Manager"
+    },
+    {
+      "job": "Financial Planning and Analysis Manager"
+    },
+    {
+      "job": "Finance Project Manager"
+    },
+    {
+      "job": "Fraud Investigator"
+    },
+    {
+      "job": "Finance Business Partner"
+    },
+    {
+      "job": "Bank Reconciliation Specialist"
+    },
+    {
+      "job": "Banking Relationship Manager"
+    },
+    {
+      "job": "Fixed Asset Accountant"
+    },
+    {
+      "job": "External Auditor"
+    },
+    {
+      "job": "Corporate Controller"
+    },
+    {
+      "job": "Finance Executive"
+    },
+    {
+      "job": "Controllership Manager"
+    },
+    {
+      "job": "Investment Banking Analyst"
+    },
+    {
+      "job": "Corporate Finance Analyst"
+    },
+    {
+      "job": "Financial Analyst Specialist"
+    },
+    {
+      "job": "Audit Supervisor"
+    },
+    {
+      "job": "Financial Reporting Specialist"
+    },
+    {
+      "job": "Finance Team Leader"
+    },
+    {
+      "job": "Senior Credit Analyst"
+    },
+    {
+      "job": "Financial Project Manager"
+    },
+    {
+      "job": "Cost Accounting Analyst"
+    },
+    {
+      "job": "Financial Systems Specialist"
+    },
+    {
+      "job": "Audit Associate"
+    },
+    {
+      "job": "Accountant "
+    },
+    {
+      "job": "Financial Controller "
+    },
+    {
+      "job": "Accounts Payable Specialist "
+    },
+    {
+      "job": "Accounts Receivable Specialist "
+    },
+    {
+      "job": "Budget Analyst "
+    },
+    {
+      "job": "Credit Analyst "
+    },
+    {
+      "job": "Risk Analyst "
+    },
+    {
+      "job": "Tax Accountant "
+    },
+    {
+      "job": "Payroll Specialist "
+    },
+    {
+      "job": "Financial Planner "
+    },
+    {
+      "job": "Audit Manager "
+    },
+    {
+      "job": "Forensic Accountant "
+    },
+    {
+      "job": "Corporate Finance Analyst "
+    },
+    {
+      "job": "Financial Reporting Analyst "
+    },
+    {
+      "job": "Investment Analyst "
+    },
+    {
+      "job": "Treasury Analyst "
+    },
+    {
+      "job": "Cost Accountant "
+    },
+    {
+      "job": "Financial Auditor "
+    },
+    {
+      "job": "Financial Modelling Analyst "
+    },
+    {
+      "job": "Senior Accountant "
+    },
+    {
+      "job": "Tax Manager "
+    },
+    {
+      "job": "Internal Auditor "
+    },
+    {
+      "job": "Financial Advisor "
+    },
+    {
+      "job": "Financial Accountant "
+    },
+    {
+      "job": "Revenue Analyst "
+    },
+    {
+      "job": "Finance Manager "
+    },
+    {
+      "job": "Collections Specialist "
+    },
+    {
+      "job": "Compliance Analyst "
+    },
+    {
+      "job": "Procurement Analyst "
+    },
+    {
+      "job": "Billing Specialist "
+    },
+    {
+      "job": "Inventory Analyst "
+    },
+    {
+      "job": "Senior Financial Analyst "
+    },
+    {
+      "job": "Cost Analyst "
+    },
+    {
+      "job": "Financial Systems Analyst "
+    },
+    {
+      "job": "Finance Director "
+    },
+    {
+      "job": "Financial Reporting Manager "
+    },
+    {
+      "job": "Tax Analyst "
+    },
+    {
+      "job": "Financial Consultant "
+    },
+    {
+      "job": "Business Analyst "
+    },
+    {
+      "job": "Financial Operations Manager "
+    },
+    {
+      "job": "Finance Officer "
+    },
+    {
+      "job": "Financial Analyst Manager "
+    },
+    {
+      "job": "Credit Manager "
+    },
+    {
+      "job": "Corporate Accountant "
+    },
+    {
+      "job": "Accounts Payable Manager "
+    },
+    {
+      "job": "Accounts Receivable Manager "
+    },
+    {
+      "job": "Finance Controller "
+    },
+    {
+      "job": "Financial Risk Manager "
+    },
+    {
+      "job": "Auditor "
+    },
+    {
+      "job": "Payroll Manager "
+    },
+    {
+      "job": "Tax Specialist "
+    },
+    {
+      "job": "Financial Analyst Specialist "
+    },
+    {
+      "job": "Mergers and Acquisitions Analyst "
+    },
+    {
+      "job": "Budget Manager "
+    },
+    {
+      "job": "Investor Relations Manager "
+    },
+    {
+      "job": "Cost Control Manager "
+    },
+    {
+      "job": "Finance Project Manager "
+    },
+    {
+      "job": "Financial Reporting Specialist "
+    },
+    {
+      "job": "Financial Accountant Manager "
+    },
+    {
+      "job": "Controller "
+    },
+    {
+      "job": "Forensic Accountant Manager "
+    },
+    {
+      "job": "Credit Analyst Manager "
+    },
+    {
+      "job": "Risk Manager "
+    },
+    {
+      "job": "Tax Director "
+    },
+    {
+      "job": "Financial Manager "
+    },
+    {
+      "job": "Internal Audit Manager "
+    },
+    {
+      "job": "Finance Business Partner "
+    },
+    {
+      "job": "Financial Strategy Manager "
+    },
+    {
+      "job": "Accounting Manager "
+    },
+    {
+      "job": "Budget Analyst Manager "
+    },
+    {
+      "job": "Financial Operations Specialist "
+    },
+    {
+      "job": "Compliance Manager "
+    },
+    {
+      "job": "Insurance Claims Analyst "
+    },
+    {
+      "job": "Financial Analyst Investment Banking "
+    },
+    {
+      "job": "Accounting Supervisor "
+    },
+    {
+      "job": "Quantitative Analyst "
+    },
+    {
+      "job": "Treasury Manager "
+    },
+    {
+      "job": "Audit Supervisor "
+    },
+    {
+      "job": "Mergers and Acquisitions Manager "
+    },
+    {
+      "job": "Real Estate Analyst "
+    },
+    {
+      "job": "Finance Team Leader "
+    },
+    {
+      "job": "Financial Reporting Director "
+    },
+    {
+      "job": "Financial Systems Manager "
+    },
+    {
+      "job": "Revenue Manager "
+    },
+    {
+      "job": "Financial Analysis Director "
+    },
+    {
+      "job": "Senior Financial Analyst Manager"
+    },
+    {
+      "job": "Financial Manager"
+    },
+    {
+      "job": "Chief Accounting Officer"
+    },
+    {
+      "job": "Management Accountant"
+    },
+    {
+      "job": "Credit Controller"
+    },
+    {
+      "job": "Procurement Specialist"
+    },
+    {
+      "job": "Inventory Accountant"
+    },
+    {
+      "job": "Senior Financial Accountant"
+    },
+    {
+      "job": "Financial Controller Assistant"
+    },
+    {
+      "job": "Insurance Analyst"
+    },
+    {
+      "job": "Financial Strategist"
+    },
+    {
+      "job": "Financial Audit Manager"
+    },
+    {
+      "job": "Accounts Supervisor"
+    },
+    {
+      "job": "Cost Control Manager"
+    },
+    {
+      "job": "Financial Investigator"
+    },
+    {
+      "job": "Credit Risk Analyst"
+    },
+    {
+      "job": "Financial Clerk"
+    },
+    {
+      "job": "Financial Director"
+    },
+    {
+      "job": "Budget Manager"
+    },
+    {
+      "job": "Insurance Underwriter"
+    },
+    {
+      "job": "Financial Risk Manager"
+    },
+    {
+      "job": "Financial Compliance Manager"
+    },
+    {
+      "job": "Financial Planning Manager"
+    },
+    {
+      "job": "Accounts Coordinator"
+    },
+    {
+      "job": "Financial Examiner"
+    },
+    {
+      "job": "Tax Planner"
+    },
+    {
+      "job": "Certified Public Accountant"
+    },
+    {
+      "job": "Financial Procurement Manager"
+    },
+    {
+      "job": "Finance Strategist"
+    },
+    {
+      "job": "Insurance Claims Adjuster"
+    },
+    {
+      "job": "Tax Accountant Manager "
+    },
+    {
+      "job": "Financial Modeler Manager"
+    },
+    {
+      "job": "Supply Chain Manager"
+    },
+    {
+      "job": "Logistics Coordinator"
+    },
+    {
+      "job": "Purchasing Agent"
+    },
+    {
+      "job": "Vendor Manager"
+    },
+    {
+      "job": "Buyer"
+    },
+    {
+      "job": "Sourcing Manager"
+    },
+    {
+      "job": "Inventory Analyst"
+    },
+    {
+      "job": "Category Manager"
+    },
+    {
+      "job": "Strategic Sourcing Specialist"
+    },
+    {
+      "job": "Purchasing Director"
+    },
+    {
+      "job": "Procurement Analyst"
+    },
+    {
+      "job": "Logistics Manager"
+    },
+    {
+      "job": "Supplier Relationship Manager"
+    },
+    {
+      "job": "Supply Chain Coordinator"
+    },
+    {
+      "job": "Materials Manager"
+    },
+    {
+      "job": "Purchase Manager"
+    },
+    {
+      "job": "Vendor Relations Manager"
+    },
+    {
+      "job": "Procurement Manager"
+    },
+    {
+      "job": "Sourcing Analyst"
+    },
+    {
+      "job": "Inventory Manager"
+    },
+    {
+      "job": "Demand Planner"
+    },
+    {
+      "job": "Purchasing Coordinator"
+    },
+    {
+      "job": "Logistics Specialist"
+    },
+    {
+      "job": "Procurement Officer"
+    },
+    {
+      "job": "Supply Chain Planner"
+    },
+    {
+      "job": "Category Analyst"
+    },
+    {
+      "job": "Senior Buyer"
+    },
+    {
+      "job": "Strategic Sourcing Manager"
+    },
+    {
+      "job": "Purchasing Manager"
+    },
+    {
+      "job": "Vendor Coordinator"
+    },
+    {
+      "job": "Sourcing Specialist"
+    },
+    {
+      "job": "Purchasing Supervisor"
+    },
+    {
+      "job": "Procurement Coordinator"
+    },
+    {
+      "job": "Supply Chain Specialist"
+    },
+    {
+      "job": "Inventory Controller"
+    },
+    {
+      "job": "Vendor Analyst"
+    },
+    {
+      "job": "Buyer Analyst"
+    },
+    {
+      "job": "Supplier Quality Engineer"
+    },
+    {
+      "job": "Senior Procurement Specialist"
+    },
+    {
+      "job": "Materials Planner"
+    },
+    {
+      "job": "Logistics Director"
+    },
+    {
+      "job": "Category Buyer"
+    },
+    {
+      "job": "Global Sourcing Manager"
+    },
+    {
+      "job": "Demand Forecast Analyst"
+    },
+    {
+      "job": "Procurement Engineer"
+    },
+    {
+      "job": "Supplier Development Manager"
+    },
+    {
+      "job": "Sourcing Director"
+    },
+    {
+      "job": "Inventory Specialist"
+    },
+    {
+      "job": "Buyer Planner"
+    },
+    {
+      "job": "Purchasing Consultant"
+    },
+    {
+      "job": "Vendor Performance Manager"
+    },
+    {
+      "job": "Strategic Sourcing Director"
+    },
+    {
+      "job": "Logistics Analyst"
+    },
+    {
+      "job": "Sourcing Coordinator"
+    },
+    {
+      "job": "Procurement Lead"
+    },
+    {
+      "job": "Supply Chain Director"
+    },
+    {
+      "job": "Inventory Planner"
+    },
+    {
+      "job": "Purchasing Assistant"
+    },
+    {
+      "job": "Vendor Specialist"
+    },
+    {
+      "job": "Sourcing Consultant"
+    },
+    {
+      "job": "Commodity Manager"
+    },
+    {
+      "job": "Supplier Quality Manager"
+    },
+    {
+      "job": "Logistics Planner"
+    },
+    {
+      "job": "Sourcing Engineer"
+    },
+    {
+      "job": "Procurement Strategist"
+    },
+    {
+      "job": "Category Planning Manager"
+    },
+    {
+      "job": "Supply Chain Consultant"
+    },
+    {
+      "job": "Purchasing Specialist"
+    },
+    {
+      "job": "Senior Procurement Analyst"
+    },
+    {
+      "job": "Logistics Supervisor"
+    },
+    {
+      "job": "Sourcing Lead"
+    },
+    {
+      "job": "Inventory Control Manager"
+    },
+    {
+      "job": "Procurement Administrator"
+    },
+    {
+      "job": "Global Category Manager"
+    },
+    {
+      "job": "Procurement Executive"
+    },
+    {
+      "job": "Supplier Manager"
+    },
+    {
+      "job": "Logistics Executive"
+    },
+    {
+      "job": "Category Management Specialist"
+    },
+    {
+      "job": "Sourcing Solutions Manager"
+    },
+    {
+      "job": "Strategic Procurement Manager"
+    },
+    {
+      "job": "Purchasing Officer"
+    },
+    {
+      "job": "Vendor Relations Specialist"
+    },
+    {
+      "job": "Senior Purchasing Agent"
+    },
+    {
+      "job": "Procurement Operations Manager"
+    },
+    {
+      "job": "Supplier Relations Analyst"
+    },
+    {
+      "job": "Sourcing Technician"
+    },
+    {
+      "job": "Commercial Manager"
+    },
+    {
+      "job": "Inventory Management Specialist"
+    },
+    {
+      "job": "Buyer Account Manager"
+    },
+    {
+      "job": "Logistics Team Leader"
+    },
+    {
+      "job": "Marketing Manager"
+    },
+    {
+      "job": "Sales Executive"
+    },
+    {
+      "job": "HR Specialist"
+    },
+    {
+      "job": "Legal Counsel"
+    },
+    {
+      "job": "Operations Manager"
+    },
+    {
+      "job": "Customer Support Specialist"
+    },
+    {
+      "job": "PR Specialist"
+    },
+    {
+      "job": "Sales Development Representative"
+    },
+    {
+      "job": "Growth Marketer"
+    },
+    {
+      "job": "Design Director"
+    },
+    {
+      "job": "Sales Manager"
+    },
+    {
+      "job": "Data Analyst Manager"
+    },
+    {
+      "job": "IT Procurement Specialist"
+    },
+    {
+      "job": "QA Manager"
+    },
+    {
+      "job": "IT Risk Analyst"
+    }
+  ]
+}
