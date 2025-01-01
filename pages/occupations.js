@@ -32,29 +32,29 @@ export async function getServerSideProps () {
 }
 
 export default function OccupationsPage({ occupations }) {
-return (
+  return (
     <div className='container'>
-        <Head>
-            <title>Fire Them! All our Experts Occupations.</title>
-            <meta name="description" content="Discover the various occupations available on our platform." />
-            <meta name="keywords" content="occupations, online services, expertise, support" />
-            <meta name="author" content="My Expert" />
-            <link rel="icon" href="/favicon.ico" />
-        </Head>
-        <Header title="Welcome to My Expert!" />
+      <Head>
+        <title>Fire Them! All our Experts Occupations.</title>
+        <meta name="description" content="Discover the various occupations available on our platform." />
+        <meta name="keywords" content="occupations, online services, expertise, support" />
+        <meta name="author" content="My Expert" />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+      <Header title="Welcome to My Expert!" />
     
-        <div className="category">
-            <h1>All Experts Occupations</h1>
-            <div className="sub-categories">
-                {occupations.map((occupation) => (
-                    <a key={occupation.id} href={`/occupations/locations?job=${occupation.occupation_slug}`} className="sub-category">
-                        <h2>{occupation.occupation_name}</h2>
-                        <p>{occupation.occupation_desc}</p>
-                        <span>Discover the occupation</span>
-                    </a>
-                ))}
-            </div>
+      <div className="category">
+        <h1>All Experts Occupations</h1>
+        <div className="sub-categories">
+          {occupations.map((occupation) => (
+            <a key={occupation.id} href={`/occupations/locations?job=${occupation.occupation_slug}`} className="sub-category">
+              <h2>{occupation.occupation_name}</h2>
+              <p>{occupation.occupation_desc}</p>
+              <span>Discover the occupation</span>
+            </a>
+          ))}
         </div>
+      </div>
     </div>
-);
+  );
 }

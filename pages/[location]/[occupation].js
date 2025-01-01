@@ -13,24 +13,15 @@
       const { data, error } = await supabase
         .from('occupations')
         .select('*')
-        .eq('occupation_slug', slug);
+        .eq('occupation_slug', slug)
+        .single();
     
       if (error) {
         console.error('Error fetching occupation:', error);
         return null;
       }
     
-      if (data.length === 0) {
-        console.error('No occupation found for slug:', slug);
-        return null;
-      }
-    
-      if (data.length > 1) {
-        console.warn('Multiple occupations found for slug:', slug);
-        // Handle multiple rows if necessary
-      }
-    
-      return data[0]; // Return the first matching occupation
+      return data;
     }
     
     async function fetchLocationBySlug(slug) {
@@ -48,45 +39,7 @@
       return data;
     }
     
-    export async function getStaticPaths() {
-      const { data: occupations, error } = await supabase
-        .from('occupations')
-        .select('occupation_slug');
-    
-      if (error) {
-        console.error('Error fetching occupations:', error);
-        return { paths: [], fallback: false };
-      }
-    
-      const { data: locations, error: locationError } = await supabase
-        .from('locations')
-        .select('location_slug');
-    
-      if (locationError) {
-        console.error('Error fetching locations:', locationError);
-        return { paths: [], fallback: false };
-      }
-    
-      const paths = [];
-    
-      occupations.forEach((occupation) => {
-        locations.forEach((location) => {
-          if (location.location_slug) { // Ensure location is present
-            const path = {
-              params: {
-                location: location.location_slug.toString().replace(/^\/|\/$/g, ''),
-                occupation: occupation.occupation_slug.toString().replace(/^\/|\/$/g, '')
-              },
-            };
-            paths.push(path);
-          }
-        });
-      });
-    
-      return { paths, fallback: false };
-    }
-    
-    export async function getServerSideProps ({ params }) {
+    export async function getServerSideProps({ params }) {
       const occupation = await fetchOccupationBySlug(params.occupation);
       const location = await fetchLocationBySlug(params.location);
     
@@ -99,7 +52,7 @@
       return {
         props: {
           occupation,
-          location, // Pass location as a prop
+          location,
         },
       };
     }
@@ -121,7 +74,7 @@
           <Header title="Welcome to My Expert!" />
           
           <div className="category">
-            <h1>{occupation.occupation_name} in {location.location_name}</h1> {/* Display location */}
+            <h1>{occupation.occupation_name} in {location.location_name}</h1>
             <div className="sub-category-content">
               <p>{occupation.occupation_desc}</p>
               <span>Discover the occupation</span>

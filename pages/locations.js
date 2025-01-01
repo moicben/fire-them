@@ -2,6 +2,7 @@ import { createClient } from '@supabase/supabase-js';
 import dotenv from 'dotenv';
 import Header from '../components/Header';
 import Head from 'next/head';
+import { useRouter } from 'next/router';
 
 dotenv.config();
 
@@ -9,7 +10,7 @@ const supabaseUrl = process.env.SUPABASE_URL;
 const supabaseKey = process.env.SUPABASE_KEY;
 const supabase = createClient(supabaseUrl, supabaseKey);
 
-async function fetchLocations() {
+async function fetchLocations() { 
   const { data, error } = await supabase
     .from('locations')
     .select('*');
@@ -22,20 +23,24 @@ async function fetchLocations() {
   return data;
 }
 
-export async function getServerSideProps () {
+export async function getServerSideProps ({ query }) {
   const locations = await fetchLocations();
+  const job = query.job || null;
   return {
     props: {
       locations,
+      job,
     },
   };
 }
 
-export default function LocationsPage({ locations }) {
+export default function LocationsPage({ locations, job }) {
+  const jobName = job ? job.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()) : 'All';
+
   return (
     <div className='container'>
       <Head>
-        <title>Fire Them! All our Experts Locations.</title>
+        <title>{jobName} Experts Locations - Fire Them!</title>
         <meta name="description" content="Discover the various locations available on our platform." />
         <meta name="keywords" content="locations, online services, expertise, support" />
         <meta name="author" content="My Expert" />
@@ -44,7 +49,7 @@ export default function LocationsPage({ locations }) {
       <Header title="Welcome to My Expert!" />
       
       <div className="category">
-        <h1>Locations</h1>
+        <h1>{`${jobName} Locations`}</h1>
         <div className="sub-categories">
           {locations.map((location) => (
             <a key={location.id} href={`/${location.location_slug}`} className="sub-category">

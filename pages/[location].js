@@ -13,7 +13,6 @@ const supabase = createClient(supabaseUrl, supabaseKey);
 
 export default function LocationPage({ occupations, location }) {
   const router = useRouter();
-  //const { formattedLocation } = router.query;
   const formattedLocation = location.charAt(0).toUpperCase() + location.slice(1);
 
   return (
@@ -54,27 +53,6 @@ async function fetchOccupations() {
   }
 
   return data;
-}
-
-export async function getStaticPaths() {
-  const { data: locations, error } = await supabase
-    .from('locations')
-    .select('location_slug')
-    .limit(1)
-
-  if (error) {
-    console.error('Error fetching locations:', error);
-    return { paths: [], fallback: false };
-  }
-
-  const paths = locations.map(location => ({
-    params: { location: location.location_slug.toString().replace(/^\/|\/$/g, '') },
-  }));
-
-  // Filtrer les chemins pour éviter les conflits avec la page d'accueil
-  const filteredPaths = paths.filter(path => path.params.location !== '');
-
-  return { paths: filteredPaths, fallback: false };
 }
 
 export async function getServerSideProps ({ params }) {
