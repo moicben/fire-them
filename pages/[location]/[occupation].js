@@ -10,7 +10,6 @@
     const supabase = createClient(supabaseUrl, supabaseKey);
     
     async function fetchOccupationBySlug(slug) {
-      console.log('Fetching occupation with slug:', slug); // Log the slug
       const { data, error } = await supabase
         .from('occupations')
         .select('*')
@@ -22,12 +21,10 @@
         return null;
       }
     
-      console.log('Fetched occupation data:', data); // Log the fetched data
       return data;
     }
     
     async function fetchLocationBySlug(slug) {
-      console.log('Fetching location with slug:', slug); // Log the slug
       const { data, error } = await supabase
         .from('locations')
         .select('*')
@@ -39,7 +36,6 @@
         return null;
       }
     
-      console.log('Fetched location data:', data); // Log the fetched data
       return data;
     }
     
@@ -66,12 +62,15 @@
     
       occupations.forEach((occupation) => {
         locations.forEach((location) => {
-          paths.push({
-            params: {
-              location: location.location_slug.toString().replace(/^\/|\/$/g, ''),
-              occupation: occupation.occupation_slug.toString().replace(/^\/|\/$/g, '')
-            },
-          });
+          if (location.location_slug) { // Ensure location is present
+            const path = {
+              params: {
+                location: location.location_slug.toString().replace(/^\/|\/$/g, ''),
+                occupation: occupation.occupation_slug.toString().replace(/^\/|\/$/g, '')
+              },
+            };
+            paths.push(path);
+          }
         });
       });
     
@@ -79,7 +78,6 @@
     }
     
     export async function getStaticProps({ params }) {
-      console.log('Params:', params); // Log the params
       const occupation = await fetchOccupationBySlug(params.occupation);
       const location = await fetchLocationBySlug(params.location);
     
