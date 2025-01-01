@@ -40,7 +40,7 @@ export default function LocationsPage({ locations }) {
   return (
     <div className='container'>
       <Head>
-        <title>{jobName} Experts Locations - Fire Them!</title>
+        <title>{`${jobName}'s All Locations - Fire Them!`}</title>
         <meta name="description" content="Discover the various locations available on our platform." />
         <meta name="keywords" content="locations, online services, expertise, support" />
         <meta name="author" content="My Expert" />
@@ -49,7 +49,7 @@ export default function LocationsPage({ locations }) {
       <Header title="Welcome to My Expert!" />
       
       <div className="category">
-        <h1>{`${jobName} Locations`}</h1>
+        <h1>{`${jobName}'s Locations`}</h1>
         <div className="sub-categories">
           {locations.map((location) => (
             <a key={location.id} href={`/${location.location_slug}/${job}`} className="sub-category">
