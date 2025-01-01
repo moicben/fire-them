@@ -6,13 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next build && next export"
+    "export": "next build && next export",
+    "heroku-postbuild": "next build"
   },
   "dependencies": {
     "@netlify/plugin-nextjs": "^5.9.2",
     "@supabase/supabase-js": "^2.47.10",
     "dotenv": "^16.4.7",
     "fs": "^0.0.1-security",
+    "heroku": "^10.0.0",
     "next": "^15.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

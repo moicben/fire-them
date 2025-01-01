@@ -59,7 +59,8 @@ async function fetchOccupations() {
 export async function getStaticPaths() {
   const { data: locations, error } = await supabase
     .from('locations')
-    .select('location_slug');
+    .select('location_slug')
+    .limit(1)
 
   if (error) {
     console.error('Error fetching locations:', error);
@@ -67,7 +68,7 @@ export async function getStaticPaths() {
   }
 
   const paths = locations.map(location => ({
-    params: { location: location.location_slug.toString() },
+    params: { location: location.location_slug.toString().replace(/^\/|\/$/g, '') },
   }));
 
   // Filtrer les chemins pour éviter les conflits avec la page d'accueil

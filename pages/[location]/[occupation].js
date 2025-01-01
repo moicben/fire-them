@@ -13,15 +13,24 @@
       const { data, error } = await supabase
         .from('occupations')
         .select('*')
-        .eq('occupation_slug', slug)
-        .single();
+        .eq('occupation_slug', slug);
     
       if (error) {
         console.error('Error fetching occupation:', error);
         return null;
       }
     
-      return data;
+      if (data.length === 0) {
+        console.error('No occupation found for slug:', slug);
+        return null;
+      }
+    
+      if (data.length > 1) {
+        console.warn('Multiple occupations found for slug:', slug);
+        // Handle multiple rows if necessary
+      }
+    
+      return data[0]; // Return the first matching occupation
     }
     
     async function fetchLocationBySlug(slug) {
