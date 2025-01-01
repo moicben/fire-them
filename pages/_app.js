@@ -7,7 +7,6 @@ import '../styles/index.css';
 import '../styles/hero.css'
 import '../styles/category.css';
 
-
 function Application({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
