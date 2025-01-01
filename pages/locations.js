@@ -47,7 +47,7 @@ export default function LocationsPage({ locations }) {
         <h1>Locations</h1>
         <div className="sub-categories">
           {locations.map((location) => (
-            <a key={location.id} href={location.location_slug} className="sub-category">
+            <a key={location.id} href={`/${location.location_slug}`} className="sub-category">
               <h2>{location.location_name}</h2>
               <p>{location.location_desc}</p>
               <span>Discover the location</span>
