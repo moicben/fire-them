@@ -67,7 +67,10 @@
       occupations.forEach((occupation) => {
         locations.forEach((location) => {
           paths.push({
-            params: { location: location.location_slug, occupation: occupation.occupation_slug },
+            params: {
+              location: location.location_slug.toString().replace(/^\/|\/$/g, ''),
+              occupation: occupation.occupation_slug.toString().replace(/^\/|\/$/g, '')
+            },
           });
         });
       });
