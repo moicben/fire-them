@@ -86,7 +86,7 @@
       return { paths, fallback: false };
     }
     
-    export async function getStaticProps({ params }) {
+    export async function getServerSideProps ({ params }) {
       const occupation = await fetchOccupationBySlug(params.occupation);
       const location = await fetchLocationBySlug(params.location);
     

@@ -22,7 +22,7 @@ async function fetchOccupations() {
   return data;
 }
 
-export async function getStaticProps() {
+export async function getServerSideProps () {
   const occupations = await fetchOccupations();
   return {
     props: {

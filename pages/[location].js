@@ -77,7 +77,7 @@ export async function getStaticPaths() {
   return { paths: filteredPaths, fallback: false };
 }
 
-export async function getStaticProps({ params }) {
+export async function getServerSideProps ({ params }) {
   const occupations = await fetchOccupations();
   const { location } = params;
   return {

@@ -23,7 +23,7 @@ async function fetchLocations() {
   return data;
 }
 
-export async function getStaticProps() {
+export async function getServerSideProps () {
   const locations = await fetchLocations();
   return {
     props: {
